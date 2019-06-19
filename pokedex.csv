@@ -789,8 +789,8 @@ Index,Pokemon,HP,Atk,Def,SpAtk,SpDef,Speed,Total,Type I,Type II,Ability I,Abilit
 771,Pyukumuku,55,60,130,30,130,5,410,Water,,Innards Out,Unaware,Unaware,Black
 772,Type: Null,95,95,95,95,95,59,534,Normal,,Battle Armor,,,Gray
 773,Silvally,95,95,95,95,95,95,570,Normal,,RKS System,,,Gray
-774,Minior (core),60,60,100,60,100,60,440,Rock,Flying,Shields Down,,,Brown
-774,Minior (core),60,100,60,100,60,120,500,Rock,Flying,Shields Down,,,Pink
+774,Minior (meteor),60,60,100,60,100,60,440,Rock,Flying,Shields Down,,,Brown
+774.1,Minior (core),60,100,60,100,60,120,500,Rock,Flying,Shields Down,,,Pink
 775,Komala,65,115,65,75,95,65,480,Normal,,Comatose,,,Blue
 776,Turtonator,60,78,135,91,85,36,485,Fire,Dragon,Shell Armor,,,Red
 777,Togedemaru,65,98,63,40,73,96,435,Electric,Steel,Iron Barbs ,Lightningrod,Sturdy,Gray
